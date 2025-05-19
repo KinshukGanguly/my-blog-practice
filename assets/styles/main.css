@@ -1,0 +1,9 @@
+/* Subscribe button styles Rules */
+.subscribe-button {
+background-color: blue;
+color: white;
+padding: 5px 10px;
+}
+.subscribe-button:hover {
+background-color: darkblue;
+}
