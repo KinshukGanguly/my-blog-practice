@@ -11,4 +11,5 @@ background-color: darkblue;
 body {
 background-color: black;
 color: lightgray;
+margin-top: 20px; /* Added a margin */
 }
