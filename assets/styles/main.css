@@ -18,8 +18,8 @@ margin-top: 20px; /* Added a margin */
 
 /*footer widget styles */
 .footer-widgets-container {
-display: flex;
+align-items: flex-start;
 }
-.footer-widget {
-flex: 1;
+.footer-widgets-container {
+max-width: 800px;
 }
